@@ -385,7 +385,7 @@ overflow: hidden;
 
 }
 
-.sect-four-item:hover .card p{
+.paragraf-card{
     position: absolute;
     top: 0;
     font-size: 16px;
