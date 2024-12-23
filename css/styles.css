@@ -8,7 +8,7 @@ body{
 *::after {
     box-sizing: border-box;
 }
-
+*,
 *::after{
 content: '';
 width: 100%;
