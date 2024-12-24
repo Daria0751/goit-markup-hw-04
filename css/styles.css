@@ -470,8 +470,7 @@ overflow: hidden;
 }
 
 .container-footer{
-    display: flex;
-    margin-right: 120px;
+
 }
 
 .logo-style-footer {
@@ -495,7 +494,6 @@ overflow: hidden;
 .container-footertwo{
 display: flex;
     flex-direction: column;
-    align-items: center;
     margin-bottom: 16px;
     margin-left: 120px;
     text-align: left;
