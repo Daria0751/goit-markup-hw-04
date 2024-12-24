@@ -403,6 +403,7 @@ overflow: hidden;
 }
 
 .paragraf-card:hover{
+.sect-four-item:hover .paragraf-card
 transform: translateY(0%);
 }
 
@@ -458,6 +459,10 @@ transform: translateY(0%);
     display: flex;
     padding: 100px 0;
     background: #2e2f42;
+}
+
+.footcont{
+    display: flex;
 }
 
 .container-footer{
