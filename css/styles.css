@@ -463,6 +463,8 @@ transform: translateY(0%);
 
 .footcont{
     display: flex;
+    align-items: baseline;
+    margin-right: 120px;
 }
 
 .container-footer{
