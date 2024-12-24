@@ -403,8 +403,11 @@ overflow: hidden;
 }
 
 .paragraf-card:hover{
-.sect-four-item:hover .paragraf-card
-transform: translateY(0%);
+
+}
+
+.card:hover .paragraf-card {
+    transform: translateY(0);
 }
 
 .img-block{
@@ -538,3 +541,4 @@ fill: #f4f4fd;
     margin-bottom: 16px;
 
 }
+
